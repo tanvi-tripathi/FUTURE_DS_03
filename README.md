@@ -8,12 +8,6 @@ This project analyzes student feedback from college events to identify strengths
 - **Google Colab**
 - **WordCloud**
 
-## 📈 Key Insights
-- Average rating: X.X / 10
-- Top strengths: [Strength 1], [Strength 2], [Strength 3]
-- Areas for improvement: [Weakness 1], [Weakness 2], [Weakness 3]
-- Sentiment breakdown: Positive XX%, Neutral XX%, Negative XX%
-
 ## 📂 Dataset
 The dataset (`student_feedback.csv`) contains:
 - Student ratings (1-10 scale) on various aspects
